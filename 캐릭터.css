@@ -73,15 +73,12 @@ header nav ul li a:hover{
     position: relative;
 }
 .playerSec{
-    background-color: #169baa;
     padding: 120px;
 }
 .fiSec{
-    background-color: #efe8d9;
     padding: 120px;
 }
 footer{
-    background-color: #c7887f;
     color: honeydew;
     padding: 14px 10px 20px;
     text-align: center;
